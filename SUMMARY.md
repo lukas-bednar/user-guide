@@ -14,3 +14,4 @@
     * [Virtual Machine Replica Set](replicaset.md)
 * [Additional resources](additional-resources.md)
 * [Feature matrix](feature-matrix.md)
+* [API Reference](api/README.md)
